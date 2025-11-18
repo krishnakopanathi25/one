@@ -33,7 +33,7 @@
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://3.239.20.252:8081/repository/Mynewrepo//</url>
+		    <url>http://34.237.222.25:8081/repository/myrepo/</url>
 		</repository>
   	</distributionManagement>
 	
